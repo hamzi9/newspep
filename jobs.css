@@ -1,0 +1,148 @@
+.container {
+  width:1240px;
+  margin:0px auto;
+}
+.clear {
+  clear:both;
+}
+body {
+  margin:0;
+  background-color: gray;
+}
+#header{
+  
+  margin: 0px;
+  background-color: white;
+}
+#footer {
+  font-size: 40px;
+  height: 370px;
+  width: 100%;
+  background-color:  white;
+  
+  text-align: center;
+  bottom: 0;
+   }
+.headerh1{
+  padding:40px 20px;
+  margin:0px;
+  
+}
+#content{
+  width:1200px;
+  height:1300px;
+  background-color:white;
+  margin:0px;
+  padding:20px 20px 20px 20px;
+}
+#leftcol{
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+}
+#midcol{
+  margin: 0px auto;
+  width: 45%;
+  float: left;
+}
+
+#rightcol{
+  width: 25%;
+  float:left;
+  margin-left:30px;
+}
+
+
+.line{
+  width:99%;
+  border-bottom: 1px solid black;
+}
+#news_box{
+  color: white;
+  background-color: #666666;
+  border:3px solid #666666;
+  padding: 10px;
+  margin: 10px 0px 10px 0px;
+}
+#news_box1{
+  color: white;
+  background-color: #666666;
+  border:3px solid #666666;
+  padding: 10px;
+  margin: 10px 0px 10px 0px;
+}
+#news_box2{
+  color: white;
+  background-color: #666666;
+  border:3px solid #666666;
+  padding: 10px;
+  margin: 10px 0px 10px 0px;
+}
+#news_box3{
+  color: white;
+  background-color: #666666;
+  border:3px solid #666666;
+  padding: 10px;
+  margin: 10px 0px 10px 0px;
+}
+#news_box4{
+  color: white;
+  background-color: #666666;
+  border:3px solid #666666;
+  padding: 10px;
+  margin: 10px 0px 10px 0px;
+}
+#news_box5{
+  color: white;
+  background-color: #666666;
+  border:3px solid #666666;
+  padding: 10px;
+  margin: 10px 0px 10px 0px;
+}
+#news_box6{
+  color: white;
+  background-color: #666666;
+  border:3px solid #666666;
+  padding: 10px;
+  margin: 10px 0px 10px 0px;
+}
+#news_box7{
+  color: white;
+  background-color: #666666;
+  border:3px solid #666666;
+  padding: 10px;
+  margin: 10px 0px 10px 0px;
+}
+#news_box8{
+  color: white;
+  background-color: #666666;
+  border:3px solid #666666;
+  padding: 10px;
+  margin: 10px 0px 10px 0px;
+}
+#news_box9{
+  color: white;
+  background-color: #666666;
+  border:3px solid #666666;
+  padding: 10px;
+  margin: 10px 0px 10px 0px;
+}
+#news_box10{
+  color: white;
+  background-color: #666666;
+  border:3px solid #666666;
+  padding: 10px;
+  margin: 10px 0px 10px 0px;
+}
+#news_box11{
+  color: white;
+  background-color: #666666;
+  border:3px solid #666666;
+  padding: 10px;
+  margin: 10px 0px 10px 0px;
+}
+
+
+
+
+
